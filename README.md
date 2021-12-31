@@ -16,8 +16,6 @@
   -  Exploring interactive design UX/UI techniques 📱
   -  Write Articles on [Dev Post](https://dev.to/hussnaindev) ✍️
 
-<h3><i>⚡Tools & Tech</i></h3>
-
 
 ## GitHub Analytics 📈
 
@@ -28,6 +26,7 @@
   </a>
 </p>
 
+<h3><i>⚡Tools & Tech</i></h3>
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hussnaindev)](https://github.com/hussnaindev) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hussnaindev)](https://github.com/hussnaindev) 
