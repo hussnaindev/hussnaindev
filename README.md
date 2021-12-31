@@ -2,23 +2,25 @@
 
 <p align="center">
   <a href="https://github.com/hussnaindev">
-    <img src="https://github.com/hussnaindev/hussnaindev/blob/GIF/github-contribution-grid-snake.svg" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hussnaindev">
     <img src="https://komarev.com/ghpvc/?username=hussnaindev" />
   </a>
 </p>
 
-## I'm a Developer 👨‍💻
+<h3><i>🙋‍♂️ABOUT ME<i/></h3>
+  <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-```
-- 🔭 I’m currently a Computer Science Student.
-- 🌱 I’m currently exploring Web Development and Android Development
-- 😄 Pronouns: He/Him ♂
-- ⚡ Fun fact: Shh! 🤫
-```
+  -  Jr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
+  -  Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀
+  -  Beta [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
+  -  Full Stack Developer ⚡
+  -  Former FrontEnd Developer at [Accrue Inc](https://github.com/accrueInc/) ⚙
+  -  Former FrontEnd Developer at [ArcCode](https://github.com/ArcCodeTeam/) 🎨
+  -  Contributed code to various open-source orgs like [greenpress](https://github.com/greenpress), [space-voyager](https://github.com/space-voyager-21)💥
+  -  Interested in web, open-source and high level system design 🛠️
+  -  Write Articles on [Dev Post](https://dev.to/meerhamzadev) ✍️
+
+<h3><i>⚡Tools & Tech</i></h3>
+
 
 ## GitHub Analytics 📈
 
