@@ -43,6 +43,6 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/husnain2raza"><img src="https://img.shields.io/badge/-@umairshabbir.83-FD1D1D?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-hussnain-raza-417025214/"><img src="https://img.shields.io/badge/-UMAIR SHABBIR-0E76A8?logo=Linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/husnain2raza"><img src="https://img.shields.io/twitter/follow/husnain2raza?style=social" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-hussnain-raza-417025214/"><img src="https://img.shields.io/badge/hussnaindev?logo=LinkedIn&logoColor=white"  /></a>
 </p>
