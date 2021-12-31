@@ -12,7 +12,7 @@
   -  Member of [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter 🚀
   -  Full Stack Developer ⚡
   -  Google Cloud CloudSeeko Completion 🔰
-  -  Interested in web and android development 🛠️
+  -  Interested in web and games development  🛠️
   -  Exploring interactive design UX/UI techniques 📱
   -  Write Articles on [Dev Post](https://dev.to/hussnaindev) ✍️
 
