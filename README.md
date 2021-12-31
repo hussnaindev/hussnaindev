@@ -14,7 +14,7 @@
   -  Google Cloud CloudSeeko Completion 🔰
   -  Interested in web and games development  🛠️
   -  Exploring interactive design UX/UI techniques 📱
-  -  Write Articles on [Dev Post](https://dev.to/hussnaindev) ✍️
+  -  Soon I will be writing articles on [Dev Post](https://dev.to/hussnaindev) ✍️
 
 
 ## GitHub Analytics 📈
