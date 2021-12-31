@@ -1,4 +1,4 @@
-# Hi there, I'm UMAIR S. 👋
+# Hi there, I'm Muhammad Hussnain Raza 👋
 
 ## Watch 👀 My Contribution Graph 📊 Eaten by Snake 🐍
 
